@@ -1,4 +1,4 @@
-**POWER BI SALES INSIGHTS FOOTWEAR DATASETS**
+## POWER BI SALES INSIGHTS FOOTWEAR DATASETS
 
 ## Project Overview
 This Power BI dashboard provides a comprehensive analysis of over 30,000 global sports footwear sales records, totaling **$147M** in revenue. The project focuses on visualizing omnichannel performance, brand competitiveness, and consumer behavior to drive strategic business decisions in the retail footwear industry.
